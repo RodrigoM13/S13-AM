@@ -56,4 +56,4 @@ Puedes usar el buscador para filtrar por nombre o productos como:
 ![Ejemplo USB](screenshots/Ejemplo_usb.png)
 
 ### 🏬 Búsqueda: Coolbox
-![Ejemplo Coolbox](screenshots/Ejemplo_coolbox.png)
+![Ejemplo Coolbox](screenshots/Ejemplo_Coolbox.png)
