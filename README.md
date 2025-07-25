@@ -38,22 +38,22 @@ Puedes usar el buscador para filtrar por nombre o productos como:
 ## 📸 Capturas de Pantalla
 
 ### 🔐 Permisos de Ubicación
-![Permisos](screenshots/Permisos.png)
+![Permisos](screenshots/Permisos.jpeg)
 
 ### 📍 Ubicación y Tienda más cercana
-![Ubicación](screenshots/Ubicacion.png)
+![Ubicación](screenshots/Ubicacion.jpeg)
 
 ### 💻 Búsqueda: Laptop
-![Ejemplo Laptop](screenshots/Ejemplo_laptop.png)
+![Ejemplo Laptop](screenshots/Ejemplo_laptop.jpeg)
 
 ### 🖥️ Búsqueda: Monitor
-![Ejemplo Monitor](screenshots/Ejemplo_monitor.png)
+![Ejemplo Monitor](screenshots/Ejemplo_monitor.jpeg)
 
 ### 🖥️ Búsqueda: PC
-![Ejemplo PC](screenshots/Ejemplo_pc.png)
+![Ejemplo PC](screenshots/Ejemplo_pc.jpeg)
 
 ### 🔌 Búsqueda: USB
-![Ejemplo USB](screenshots/Ejemplo_usb.png)
+![Ejemplo USB](screenshots/Ejemplo_usb.jpeg)
 
 ### 🏬 Búsqueda: Coolbox
-![Ejemplo Coolbox](screenshots/Ejemplo_Coolbox.png)
+![Ejemplo Coolbox](screenshots/Ejemplo_Coolbox.jpeg)
